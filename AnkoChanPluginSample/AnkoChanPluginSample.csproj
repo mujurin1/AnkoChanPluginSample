@@ -1,0 +1,10 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+	<TargetFramework>net4.8-windows</TargetFramework>
+	<UseWindowsForms>true</UseWindowsForms>
+    <StartAction>Program</StartAction>
+    <StartProgram>この文をアンコちゃんの実行ファイルのパスに変更する</StartProgram>
+  </PropertyGroup>
+
+</Project>
